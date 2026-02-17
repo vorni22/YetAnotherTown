@@ -7,6 +7,8 @@ Current features:
     4. Cubic Bézier–based road drawing: Draw a cubic Bézier curve, and the system automatically integrates it into the current road network; new intersections and geometry are computed accordingly.
 
 Some images:
+<img src="showcase_7.png">
+<img src="showcase_8.png">
 <img src="showcase_0.png">
 <img src="showcase_1.png">
 <img src="showcase_2.png">
